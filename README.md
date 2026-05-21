@@ -335,15 +335,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
-
-**Harsh Arora**
-
-- GitHub: [@HARSHARORA2812](https://github.com/HARSHARORA2812)
-- Repository: [CampusHub](https://github.com/HARSHARORA2812/CampusHub)
-
----
-
 ## 🙏 Acknowledgments
 
 - Built with ❤️ using the MERN Stack
@@ -353,18 +344,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📧 Support
-
-If you have any questions or need help, please:
-
-- 📫 Open an [issue](https://github.com/HARSHARORA2812/CampusHub/issues)
-- 💬 Start a [discussion](https://github.com/HARSHARORA2812/CampusHub/discussions)
-
----
-
 <div align="center">
 
-Made with ❤️ by Harsh Arora
+Made with ❤️ by Madhur Dua
 
 ⭐ Star this repository if you find it helpful!
 
